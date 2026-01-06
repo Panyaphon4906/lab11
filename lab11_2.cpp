@@ -82,5 +82,5 @@ int main(){
 	
 	checkWinner(playerScore,yugiScore);
 
-	return 0
+	return 0;
 }

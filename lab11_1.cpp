@@ -20,5 +20,5 @@ int main() {
 
     cout << "You will get " << grades[randomIndex] << " in this 261102." << endl;
 
-    return 0
+    return 0;
 }
